@@ -48,29 +48,29 @@ const [selectedImage, setSelectedImage] = useState(null);
         <div className="project-card">
           <h3>Creativa</h3>
           <p>Creative talent discovery platform built with React.</p>
-          <a href="https://artistverse-creativa.vercel.app" target="_blank">
+          <a href="https://artistverse-creativa.vercel.app" target="_blank"rel="noreferrer">
             Live Demo
           </a> 
-          <a href="https://github.com/Latheef-a/artistverse-creativa.git" target="_blank">GitHub</a>
+          <a href="https://github.com/Latheef-a/artistverse-creativa.git" target="_blank"rel="noreferrer">GitHub</a>
         </div>
 
         {/* Other Projects */}
         <div className="project-card">
           <h3>YouTube Clone</h3>
           <p>Built using HTML, CSS and JavaScript.</p>
-           <a href="https://youtube-clone-alpha-one-65.vercel.app" target="_blank">
+           <a href="https://youtube-clone-alpha-one-65.vercel.app" target="_blank"rel="noreferrer">
             Live Demo
           </a>
-           <a href="https://github.com/Latheef-a/Youtube-Clone.git" target="_blank">GitHub</a>
+           <a href="https://github.com/Latheef-a/Youtube-Clone.git" target="_blank"rel="noreferrer">GitHub</a>
         </div>
 
         <div className="project-card">
           <h3>Artistverse (HTML Version)</h3>
           <p>Static version built using HTML, CSS and JavaScript.</p>
-           <a href="https://artistverse-ten.vercel.app" target="_blank">
+           <a href="https://artistverse-ten.vercel.app" target="_blank"rel="noreferrer">
             Live Demo
           </a>
-           <a href="https://github.com/Latheef-a/artistverse.git" target="_blank">GitHub</a>
+           <a href="https://github.com/Latheef-a/artistverse.git" target="_blank"rel="noreferrer">GitHub</a>
         </div>
       </section>
 
@@ -99,8 +99,8 @@ const [selectedImage, setSelectedImage] = useState(null);
         <p>Email: latheefee2004@gmail.com</p>
 
         <div className="contact-links">
-          <a href="https://github.com/" target="_blank">Github</a>
-          <a href="https://www.linkedin.com/in/latheef004/" target="_blank">LinkedIn</a>
+          <a href="https://github.com/" target="_blank"rel="noreferrer">Github</a>
+          <a href="https://www.linkedin.com/in/latheef004/" target="_blank"rel="noreferrer">LinkedIn</a>
           <p>Open to interships and freelance opportunities</p>
         </div>
       </section>
