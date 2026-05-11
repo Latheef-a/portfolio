@@ -76,10 +76,10 @@ const [selectedImage, setSelectedImage] = useState(null);
         <div className="project-card">
           <h3>Vincio Media House</h3>
           <p>A business website for digital marketing, branding, and web development services..</p>
-           <a href="https://vinciomediahouse.com/" target="_blank">
+           <a href="https://vinciomediahouse.com/" target="_blank"rel="noreferrer">
             Live Demo
           </a>
-           <a href="https://github.com/Latheef-a/vincio-media.git" target="_blank">GitHub</a>
+           <a href="https://github.com/Latheef-a/vincio-media.git" target="_blank"rel="noreferrer">GitHub</a>
         </div>
       </section>
 
